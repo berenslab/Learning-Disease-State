@@ -6,7 +6,7 @@ This repository contains the code for the MICCAI Submission "Learning Disease St
 Set up a python environment with a python version `3.13`. Then, download the repository,
 activate the environment and install all other dependencies with
 ```bash
-cd Learning-Disease-State-from-Noisy-Ordinal-Disease-Progression-Labels
+cd Learning-Disease-State
 pip install --editable . 
 ```
 
