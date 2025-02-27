@@ -1,0 +1,16 @@
+matplotlib==3.9.2
+numpy==1.26.3
+omegaconf==2.3.0
+opencv-python==4.10.0.84
+pandas==2.2.3
+pillow==10.2.0
+pyparsing==3.1.4
+PyYAML==6.0.2
+scikit-image==0.25.0
+scikit-learn==1.5.2
+scipy==1.14.1
+seaborn==0.13.2
+torch==2.4.1+cu124
+torchmetrics==1.4.2
+torchvision==0.19.1+cu124
+typing_extensions==4.9.0

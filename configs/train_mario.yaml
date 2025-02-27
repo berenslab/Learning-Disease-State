@@ -1,0 +1,9 @@
+experiment_folder: resnet50
+data_root_dir: path/to/root/directory
+
+batch_size: 32
+num_epochs: 60
+lambda_reg: 0.15
+
+backbone: resnet50
+model_name: OurModel

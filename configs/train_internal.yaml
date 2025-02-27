@@ -1,0 +1,12 @@
+experiment_folder: shots
+data_root_dir: path/to/data/root/directory
+meta_csv: path/to/meta/data/csv
+
+dir_naive: path/to/naive/data
+dir_no_gamma: path/to/no_gamma/data
+dir_gamma: path/to/gamma/data
+
+batch_size: 256
+
+backbone: resnet50
+model_name: OurModel
