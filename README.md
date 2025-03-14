@@ -46,5 +46,13 @@ To train the model on a **different dataset**:
 # Cite
 If you find our code or paper useful, please consider citing this work:
 ```bibtex
-
+@misc{schmidt2025ordinal,
+    title={{Learning Disease State from Noisy Ordinal Disease Progression Labels}}, 
+    author={Gustav Schmidt and Holger Heidrich and Philipp Berens and Sarah M\"uller},
+    year={2025},
+    eprint={2503.10440},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV},
+    url={https://arxiv.org/abs/2503.10440}, 
+}
 ``` 
